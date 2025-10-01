@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+python-dotenv
+Ipython
